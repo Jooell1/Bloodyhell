@@ -15,7 +15,7 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `¡Hola @user soy un bot privado, me llamo Bloodyhell Bot.
+let str = `¡Hola soy un bot privado, me llamo Bloodyhell Bot.
 
 ╔ 「 PRINCIPAL : 」 
 ║╭—————————
