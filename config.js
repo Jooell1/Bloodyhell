@@ -6,7 +6,7 @@ import fs from 'fs'
 
 global.owner = [
   ['5493515051965', '𝑱𝒐𝒆𝒍  ᷦ×͜×', true],
-  ['5493518644763', '𝙈𝙖𝙛𝙪𝙮𝙪-𝙗𝙤𝙩  ᷦ', true],
+  ['15107515918', '𝙱𝚕𝚘𝚘𝚍𝚢𝚑𝚎𝚕𝚕  ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -64,10 +64,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '𝑱𝒐𝒆𝒍  ᷦ×͜×'
-global.author = '★ 𝙈𝙖𝙛𝙪𝙮𝙪-𝙗𝙤𝙩  ᷦ★'
+global.author = '★ 𝙱𝚕𝚘𝚘𝚍𝚢𝚑𝚎𝚕𝚕  ᷦ★'
 
-global.wm = '★ 𝙈𝙖𝙛𝙪𝙮𝙪-𝙗𝙤𝙩  ᷦ★'
-global.igfg = '★ 𝙈𝙖𝙛𝙪𝙮𝙪-𝙗𝙤𝙩  ᷦ★'
+global.wm = '★ 𝙱𝚕𝚘𝚘𝚍𝚢𝚑𝚎𝚕𝚕  ᷦ★'
+global.igfg = '★ 𝙱𝚕𝚘𝚘𝚍𝚢𝚑𝚎𝚕𝚕  ᷦ★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
