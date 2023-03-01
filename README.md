@@ -35,8 +35,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Jooell1/Mafuyu-bot
-> cd Mafuyu-bot
+> git clone https://github.com/Jooell1/Bloodyhell
+> cd Bloodyhell
 > yarn install 
 > npm install
 > npm update
@@ -47,7 +47,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mafuyu-bot
+> cd Bloodyhell
 > npm start
 ```
 
@@ -55,7 +55,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mafuyu-bot
+> cd Bloodyhell
 > rm -rf session.data.json
 > npm start
 ```
