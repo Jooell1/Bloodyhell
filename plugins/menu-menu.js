@@ -40,6 +40,50 @@ let str = `¡Hola soy un bot privado, me llamo Bloodyhell Bot.
 ║├‣  .fantasmas: Personas inactivas en el grupo
 ║╰—————————
 ╚══════════
+╔ 「 AUDIOS : 」 
+║╭—————————
+║├‣🔊 _Quien es tu sempai botsito 7w7_
+║├‣🔊 _Te diagnostico con gay_
+║├‣🔊 _A nadie le importa_
+║├‣🔊 _Fiesta del admin_
+║├‣🔊 _Fiesta del administrador_ 
+║├‣🔊 _Vivan los novios_
+║├‣🔊 _Feliz cumpleaños_
+║├‣🔊 _Noche de paz_
+║├‣🔊 _Buenos dias_
+║├‣🔊 _Buenos tardes_
+║├‣🔊 _Buenos noches_
+║├‣🔊 _Audio hentai_
+║├‣🔊 _Chica lgante_
+║├‣🔊 _Feliz navidad_
+║├‣🔊 _Vete a la vrg_
+║├‣🔊 _Pasa pack Bot_
+║├‣🔊 _Atencion grupo_
+║├‣🔊 _Marica quien_
+║├‣🔊 _Murio el grupo_
+║├‣🔊 _Oh me vengo_
+║├‣🔊 _tio que rico_
+║├‣🔊 _Viernes_
+║├‣🔊 _Baneado_
+║├‣🔊 _Sexo_
+║├‣🔊 _Hola_
+║├‣🔊 _Un pato_
+║├‣🔊 _Nyanpasu_
+║├‣🔊 _Te amo_
+║├‣🔊 _Yamete_
+║├‣🔊 _Bañate_
+║├‣🔊 _Es puto_
+║├‣🔊 _La biblia_
+║├‣🔊 _Onichan_
+║├‣🔊 _Mierda de Bot_
+║├‣🔊 _Siuuu_
+║├‣🔊 _Rawr_
+║├‣🔊 _UwU_
+║├‣🔊 _:c_
+║├‣🔊 _a_
+║├‣🔊 _Que mira bobo_
+║╰—————————
+╚══════════
 ╔ 「 DESCARGAS/BÚSQUEDA : 」 
 ║╭—————————
 ║├‣  .play: Descargar una cancion en Mp3 o Mp4
